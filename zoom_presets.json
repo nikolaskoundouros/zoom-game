@@ -1,0 +1,196 @@
+{
+ "source": "clip-analyzer clips/dino/data.json, frames 0-378 (0 to 12.6 s)",
+ "fps": 30.03,
+ "min_zoom_pct": 20.0,
+ "presets": [
+  {
+   "id": "Z1",
+   "label": "pull out",
+   "start_s": 0.0,
+   "dur_s": 0.33,
+   "frames": 10,
+   "size_pct": -68.1,
+   "profile": [
+    -0.0,
+    -0.0,
+    0.078,
+    0.276,
+    0.411,
+    0.558,
+    0.805,
+    0.912,
+    1.0
+   ],
+   "pan_pct": -14.8,
+   "tilt_pct": -3.9
+  },
+  {
+   "id": "Z2",
+   "label": "push in",
+   "start_s": 1.63,
+   "dur_s": 0.2,
+   "frames": 6,
+   "size_pct": 35.4,
+   "profile": [
+    0.0,
+    0.016,
+    0.031,
+    0.031,
+    0.127,
+    0.28,
+    0.28,
+    0.534,
+    1.0
+   ],
+   "pan_pct": -5.1,
+   "tilt_pct": 0.6
+  },
+  {
+   "id": "Z3",
+   "label": "pull out",
+   "start_s": 2.37,
+   "dur_s": 0.2,
+   "frames": 6,
+   "size_pct": -20.1,
+   "profile": [
+    -0.0,
+    0.33,
+    0.484,
+    0.484,
+    0.692,
+    0.819,
+    0.819,
+    0.944,
+    1.0
+   ],
+   "pan_pct": 9.2,
+   "tilt_pct": 9.1
+  },
+  {
+   "id": "Z4",
+   "label": "dolly in",
+   "start_s": 4.07,
+   "dur_s": 0.77,
+   "frames": 23,
+   "size_pct": 289.3,
+   "profile": [
+    0.0,
+    0.273,
+    0.494,
+    0.623,
+    0.73,
+    0.795,
+    0.882,
+    0.952,
+    1.0
+   ],
+   "pan_pct": -5.4,
+   "tilt_pct": 0.1
+  },
+  {
+   "id": "Z5",
+   "label": "push in",
+   "start_s": 5.87,
+   "dur_s": 0.27,
+   "frames": 8,
+   "size_pct": 24.9,
+   "profile": [
+    0.0,
+    0.11,
+    0.227,
+    0.343,
+    0.468,
+    0.569,
+    0.711,
+    0.854,
+    1.0
+   ],
+   "pan_pct": -9.7,
+   "tilt_pct": 1.8
+  },
+  {
+   "id": "Z6",
+   "label": "dolly in",
+   "start_s": 6.13,
+   "dur_s": 0.5,
+   "frames": 15,
+   "size_pct": 48.0,
+   "profile": [
+    0.0,
+    0.16,
+    0.318,
+    0.473,
+    0.627,
+    0.699,
+    0.831,
+    0.937,
+    1.0
+   ],
+   "pan_pct": 26.4,
+   "tilt_pct": 3.0
+  },
+  {
+   "id": "Z7",
+   "label": "dolly out",
+   "start_s": 8.0,
+   "dur_s": 1.03,
+   "frames": 31,
+   "size_pct": -77.1,
+   "profile": [
+    -0.0,
+    0.04,
+    0.126,
+    0.329,
+    0.551,
+    0.731,
+    0.9,
+    0.98,
+    1.0
+   ],
+   "pan_pct": -0.9,
+   "tilt_pct": 4.4
+  },
+  {
+   "id": "Z8",
+   "label": "move left",
+   "start_s": 10.97,
+   "dur_s": 0.37,
+   "frames": 11,
+   "size_pct": -28.9,
+   "profile": [
+    -0.0,
+    0.12,
+    0.405,
+    0.552,
+    0.746,
+    0.775,
+    0.819,
+    0.92,
+    1.0
+   ],
+   "pan_pct": -61.4,
+   "tilt_pct": -2.8
+  },
+  {
+   "id": "Z9",
+   "label": "pull out",
+   "start_s": 11.33,
+   "dur_s": 0.43,
+   "frames": 13,
+   "size_pct": -29.4,
+   "profile": [
+    -0.0,
+    0.156,
+    0.245,
+    0.431,
+    0.513,
+    0.675,
+    0.824,
+    0.891,
+    1.0
+   ],
+   "pan_pct": -13.2,
+   "tilt_pct": 19.6
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "room": {"x": [-4.0, 4.0], "z": [-4.0, 3.0], "height": 3.4,
+           "floor": "#6b1f1c", "wall": "#b79c73", "rail": "#e8e1d0", "ceiling": "#1a1410"},
+  "camera": {"lens_mm": 36.1, "sensor_h_mm": 36.0, "aspect": 0.5625},
+  "characters": [
+    {"id": "boy", "label": "Boy", "pos": [-0.6, -0.6], "height": 1.35, "radius": 0.26,
+     "hair": "#e8662b", "shirt": "#d9d2c3", "pants": "#1f2a5a", "facing_deg": 20},
+    {"id": "mom", "label": "Mom", "pos": [0.9, -0.3], "height": 1.7, "radius": 0.3,
+     "hair": "#4b2e22", "shirt": "#2d5fa8", "pants": "#3a4a6b", "facing_deg": -15}
+  ],
+  "props": [
+    {"id": "stanchion_1", "label": "Rope post 1", "kind": "stanchion", "pos": [-2.4, 0.7], "size": [0.3, 0.3]},
+    {"id": "stanchion_2", "label": "Rope post 2", "kind": "stanchion", "pos": [-0.8, 0.7], "size": [0.3, 0.3]},
+    {"id": "stanchion_3", "label": "Rope post 3", "kind": "stanchion", "pos": [0.8, 0.7], "size": [0.3, 0.3]},
+    {"id": "stanchion_4", "label": "Rope post 4", "kind": "stanchion", "pos": [2.4, 0.7], "size": [0.3, 0.3]},
+    {"id": "plinth", "label": "Plinth", "kind": "plinth", "pos": [2.5, -2.0], "size": [2.0, 1.4]},
+    {"id": "rex_leg", "label": "T-Rex leg", "kind": "rex_leg", "pos": [-2.5, -2.6], "size": [1.2, 1.4]},
+    {"id": "rex_ribs", "label": "T-Rex ribs", "kind": "rex_ribs", "pos": [0.2, -3.3], "size": [3.0, 0.7]},
+    {"id": "bench", "label": "Bench", "kind": "bench", "pos": [-3.2, -0.9], "size": [0.6, 1.4]}
+  ],
+  "ropes": [{"from": "stanchion_1", "to": "stanchion_2"}, {"from": "stanchion_2", "to": "stanchion_3"}, {"from": "stanchion_3", "to": "stanchion_4"}]
+}
